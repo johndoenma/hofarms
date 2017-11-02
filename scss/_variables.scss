@@ -1,0 +1,24 @@
+// Typography: Helvetica (default)
+$body-font-family: 'Roboto', Helvetica, Arial, sans-serif;
+$heading-font-family: 'Rokkitt', 'Rockwell', 'Courier Bold', Courier, Georgia, Times, 'Times New Roman', serif;
+$navigation-font-family: Helvetica, Arial, sans-serif;
+
+// Colors (default theme)
+$text-color: #497537;
+$text-color-light: #c9e4c1;
+$link-color: #2a491d;
+$link-color-dark: #203816;
+$accent-color: #594218;
+$background-color-body: #fff;
+$background-color-header: #2a491d;
+$background-color-footer: #c9e4c1;
+$background-color-hero: #fff;
+
+// Borders
+$border-color: #ccc;
+$border-width: 0px;
+
+// Breakpoints
+$breakpoint-small: 768px;
+$breakpoint-medium: 1050px;
+$breakpoint-large: 1250px;
